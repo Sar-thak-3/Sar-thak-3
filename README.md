@@ -12,7 +12,9 @@
 <a href="https://www.linkedin.com/in/sarthak-garg-098674222/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
 </a>
-
+<a href="https://www.linkedin.com/in/sarthak-garg-098674222/">
+    <img src="https://img.shields.io/badge/-Stackoverflow-orange?logoWidth=100 />
+</a>
 
 <h1 align="center"> My AI/ML Stack </h1>
 
