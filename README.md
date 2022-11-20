@@ -39,5 +39,5 @@
 ![image](https://img.shields.io/badge/-Node%20JS-brightgreen)
 ![ReactJS](https://img.shields.io/badge/-React%20JS-blue)
 ![Plotly](https://img.shields.io/badge/-Plotly-red)
-![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/-Mysql-red)
+![image](https://img.shields.io/badge/-MongoDB-green)
