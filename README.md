@@ -6,7 +6,7 @@
 -    Punjab Engineering College - Chandigarh
 -    Btech In Electrical Engineering
 -    Second Year Student
--   [**My Resume**](https://drive.google.com/file/d/1FZWZqaK10-ClJj76wUO4kUdQ9MKnJvCc/view?usp=sharing)
+-   [**My Resume**](https://drive.google.com/file/d/1YmNf9jodezapO21gunHvE26uI4BSewJt/view?usp=sharing)
 -   [**My Projects**](https://github.com/Sar-thak-3)
 -   [**My Portfolio**](https://webport03.web.app/)
 <a href="https://www.linkedin.com/in/sarthak-garg-098674222/">
