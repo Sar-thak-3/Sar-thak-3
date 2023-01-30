@@ -23,14 +23,13 @@
 ![image](https://img.icons8.com/fluency/48/null/python.png)
 ![image](https://img.icons8.com/fluency/48/null/jupyter.png)
 ![image](https://img.icons8.com/color/48/null/tensorflow.png)
-![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![image](https://img.icons8.com/color/48/null/numpy.png)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.icons8.com/color/48/null/pandas.png)
+![image](https://img.icons8.com/color/48/null/opencv.png)
+![image](https://img.icons8.com/color/48/null/git.png)
 
 
 ---------------------------------------------------------------------------------------
