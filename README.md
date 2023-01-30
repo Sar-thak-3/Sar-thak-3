@@ -22,7 +22,7 @@
 
 ![image](https://img.icons8.com/fluency/48/null/python.png)
 ![image](https://img.icons8.com/fluency/48/null/jupyter.png)
-![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![image](https://img.icons8.com/color/48/null/tensorflow.png)
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
