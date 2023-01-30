@@ -37,7 +37,7 @@
 
 <h1 align="center"> My Web Dev Stack </h1>
 
-![image](https://img.shields.io/badge/-HTML-orange)
+![image](https://img.icons8.com/fluency/48/null/html-5.png)
 ![image](https://img.shields.io/badge/css-CSS-lightgrey)
 ![image](https://img.shields.io/badge/-Javascript-yellowgreen)
 ![image](https://img.shields.io/badge/-Node%20JS-brightgreen)
