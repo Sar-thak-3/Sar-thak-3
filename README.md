@@ -24,8 +24,8 @@
 ![image](https://img.icons8.com/fluency/48/null/jupyter.png)
 ![image](https://img.icons8.com/color/48/null/tensorflow.png)
 ![image](https://img.icons8.com/color/48/null/numpy.png)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="https://miro.medium.com/max/875/1*8AaAYxLb-VOgGUW8V8JXQA.png" width="40px">
+<img src="https://www.leixue.com/uploads/2019/07/Scikit-learn.png" width="80px">
 ![image](https://img.icons8.com/color/48/null/pandas.png)
 ![image](https://img.icons8.com/color/48/null/opencv.png)
 ![image](https://img.icons8.com/color/48/null/git.png)
