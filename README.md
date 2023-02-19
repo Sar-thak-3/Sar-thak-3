@@ -16,9 +16,9 @@
     <img src="https://img.icons8.com/color/48/null/stackoverflow.png"/>
 </a>
 
-
+-----------------------------------------------------------------------------------
               
-<h1 align="center"> My AI/ML Stack </h1>
+<h1 align="center"> AI/ML Stack </h1>
 
 ![image](https://img.icons8.com/fluency/48/null/python.png)
 ![image](https://img.icons8.com/fluency/48/null/jupyter.png)
@@ -33,7 +33,7 @@
 
 ---------------------------------------------------------------------------------------
 
-<h1 align="center"> My Web Dev Stack </h1>
+<h1 align="center"> Web Dev Stack </h1>
 
 ![image](https://img.icons8.com/fluency/48/null/html-5.png)
 ![image](https://img.icons8.com/fluency/48/null/css3.png)
@@ -43,3 +43,8 @@
 <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="30px">
 ![image](https://img.icons8.com/fluency/48/null/mysql-logo.png)
 ![image](https://img.icons8.com/color/48/000000/mongodb.png)
+
+-----------------------------------------------------------------------------------------
+
+<h1 align="center"> Contributions </h1>
+<img src="https://github-readme-stats.vercel.app/api?username=sar-thak-3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
