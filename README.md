@@ -44,6 +44,21 @@
 ![image](https://img.icons8.com/fluency/48/null/mysql-logo.png)
 ![image](https://img.icons8.com/color/48/000000/mongodb.png)
 
+
+----------------------------------------------------------------------------------------
+
+<h1 align="center"> Tools / Platforms </h1> 
+![image](https://icons8.com/icon/ezj3zaVtImPg/visual-studio)
+![image](https://icons8.com/icon/EPbEfEa7o8CB/postman-is-the-only-complete-api-development-environment)
+<!-- ![image](https://user-images.githubusercontent.com/100359818/226448864-a6e5f990-cc5f-471f-a568-a2ae10b50e18.png) -->
+![image](https://user-images.githubusercontent.com/100359818/226449018-1573a438-8053-49a4-9c0e-a630d0c00644.png)
+
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+
 -----------------------------------------------------------------------------------------
 
 <h1 align="center"> Contributions </h1>
