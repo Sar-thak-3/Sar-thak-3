@@ -21,7 +21,6 @@
 <h1 align="center"> AI/ML Stack </h1>
 
 ![image](https://img.icons8.com/fluency/48/null/python.png)
-![image](https://img.icons8.com/fluency/48/null/jupyter.png)
 ![image](https://img.icons8.com/color/48/null/tensorflow.png)
 ![image](https://img.icons8.com/color/48/null/numpy.png)
 <img src="https://miro.medium.com/max/875/1*8AaAYxLb-VOgGUW8V8JXQA.png" width="40px">
@@ -41,23 +40,22 @@
 ![image](https://img.icons8.com/fluency/48/null/node-js.png)
 ![ReactJS](https://img.icons8.com/plasticine/48/000000/react.png)
 <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="30px">
-![image](https://img.icons8.com/fluency/48/null/mysql-logo.png)
-![image](https://img.icons8.com/color/48/000000/mongodb.png)
 
 
 ----------------------------------------------------------------------------------------
 
 <h1 align="center"> Tools / Platforms </h1> 
-![image](https://icons8.com/icon/ezj3zaVtImPg/visual-studio)
-![image](https://icons8.com/icon/EPbEfEa7o8CB/postman-is-the-only-complete-api-development-environment)
-<!-- ![image](https://user-images.githubusercontent.com/100359818/226448864-a6e5f990-cc5f-471f-a568-a2ae10b50e18.png) -->
-![image](https://user-images.githubusercontent.com/100359818/226449018-1573a438-8053-49a4-9c0e-a630d0c00644.png)
-
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+<div style={display: "flex"}>
+    <img src="https://img.icons8.com/fluency/48/null/github.png"/>
+<img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
+<img src="https://img.icons8.com/color/48/null/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" />
+    <img src="https://img.icons8.com/fluency/48/null/mysql-logo.png" />
+    <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
+    <img src="https://img.icons8.com/fluency/48/null/jupyter.png" />
+    <img src="https://img.icons8.com/fluency/48/null/docker.png"/>
+    <img src="https://img.icons8.com/dusk/64/null/postman-api.png" height="40px"/>
+</div>
 
 -----------------------------------------------------------------------------------------
 
