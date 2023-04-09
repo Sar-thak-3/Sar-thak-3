@@ -3,10 +3,11 @@
 <h1 align="center">Hi, I'm Sarthak Garg</h1>
 
 ## About Me:- 
+-    Developer / Coder
 -    Punjab Engineering College - Chandigarh
 -    Btech In Electrical Engineering
--    Second Year Student
--   [**My Resume**](https://drive.google.com/file/d/1m9h35oqj5GVUjWYLrRf7P_OUVfjiOx9-/view?usp=share_link)
+-    Sophomore
+-   [**My Resume**](https://drive.google.com/file/d/1Y0mS3AGeg2weiXL423lwPt_cRLf1dEbF/view?usp=share_link)
 -   [**My Projects**](https://github.com/Sar-thak-3)
 -   [**My Portfolio**](https://webport03.web.app/)
 <a href="https://www.linkedin.com/in/sarthak-garg-098674222/">
