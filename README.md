@@ -40,7 +40,8 @@
 ![image](https://img.icons8.com/fluency/48/null/javascript.png)
 ![image](https://img.icons8.com/fluency/48/null/node-js.png)
 ![ReactJS](https://img.icons8.com/plasticine/48/000000/react.png)
-<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="30px">
+<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40px">
+<img src="https://github.com/Sar-thak-3/Sar-thak-3/assets/100359818/99a79937-a330-4986-9e1f-936870c93407" width="40px">
 
 
 ----------------------------------------------------------------------------------------
