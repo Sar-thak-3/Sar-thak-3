@@ -34,30 +34,18 @@
 ---------------------------------------------------------------------------------------
 
 <h1 align="center"> Web Dev Stack </h1>
-
-![image](https://img.icons8.com/fluency/48/null/html-5.png)
-![image](https://img.icons8.com/fluency/48/null/css3.png)
-![image](https://img.icons8.com/fluency/48/null/javascript.png)
-![image](https://img.icons8.com/fluency/48/null/node-js.png)
-![ReactJS](https://img.icons8.com/plasticine/48/000000/react.png)
-<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40px">
-<img src="https://github.com/Sar-thak-3/Sar-thak-3/assets/100359818/99a79937-a330-4986-9e1f-936870c93407" width="40px">
-
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,express,react,nodejs,next" />
+    <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40px">
+</p>
 
 ----------------------------------------------------------------------------------------
 
 <h1 align="center"> Tools / Platforms </h1> 
-<div style={display: "flex"}>
-    <img src="https://img.icons8.com/fluency/48/null/github.png"/>
-<img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-<img src="https://img.icons8.com/color/48/null/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" />
-    <img src="https://img.icons8.com/fluency/48/null/mysql-logo.png" />
-    <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,git,github,vscode,mongodb,mysql,docker,postman" />
     <img src="https://img.icons8.com/fluency/48/null/jupyter.png" />
-    <img src="https://img.icons8.com/fluency/48/null/docker.png"/>
-    <img src="https://img.icons8.com/dusk/64/null/postman-api.png" height="40px"/>
-</div>
+</p>
 
 -----------------------------------------------------------------------------------------
 
