@@ -20,16 +20,15 @@
 -----------------------------------------------------------------------------------
               
 <h1 align="center"> AI/ML Stack </h1>
-
-![image](https://img.icons8.com/fluency/48/null/python.png)
-![image](https://img.icons8.com/color/48/null/tensorflow.png)
-![image](https://img.icons8.com/color/48/null/numpy.png)
-<img src="https://miro.medium.com/max/875/1*8AaAYxLb-VOgGUW8V8JXQA.png" width="40px">
-<img src="https://www.leixue.com/uploads/2019/07/Scikit-learn.png" width="80px">
-![image](https://img.icons8.com/color/48/null/pandas.png)
-![image](https://img.icons8.com/color/48/null/opencv.png)
-![image](https://img.icons8.com/color/48/null/git.png)
-
+<div class="d-flex" style="display: "flex"">
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+    <img src="https://www.leixue.com/uploads/2019/07/Scikit-learn.png" width="80px">
+    <img src="https://img.icons8.com/color/48/null/numpy.png" width="50px">
+    <img src="https://img.icons8.com/color/48/null/pandas.png" width="50px">
+    <img src="https://img.icons8.com/color/48/null/opencv.png" width="50px">
+</p>
+</div>
 
 ---------------------------------------------------------------------------------------
 
