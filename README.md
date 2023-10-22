@@ -17,8 +17,9 @@
     <img src="https://img.icons8.com/color/48/null/stackoverflow.png"/>
 </a>
 <a href="https://medium.com/@shibugarg0303">
-    <img src="https://icons8.com/icon/XVNvUWCvvlD9/medium" />
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/medium-logo.png" alt="medium-logo"/>
 </a>
+
 -----------------------------------------------------------------------------------
               
 <h1 align="center"> AI/ML Stack </h1>
