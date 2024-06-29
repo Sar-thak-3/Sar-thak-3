@@ -9,7 +9,7 @@
 -    Sophomore
 -   [**My Resume**](https://drive.google.com/file/d/1D-xgl6wHcsdPUtS-bWTuYPqG_6-LrEup/view?usp=share_link)
 -   [**My Projects**](https://github.com/Sar-thak-3)
--   [**My Portfolio**](https://webport03.web.app/)
+-   [**My Portfolio**](https://portfolio-sarthak3s-projects.vercel.app/)
 <a href="https://www.linkedin.com/in/sarthak-garg-098674222/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
