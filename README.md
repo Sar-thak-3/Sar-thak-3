@@ -6,7 +6,7 @@
 -    Developer / Coder
 -    Punjab Engineering College - Chandigarh
 -    Btech In Electrical Engineering
--    Sophomore
+-    Senior
 -   [**My Resume**](https://drive.google.com/file/d/1D-xgl6wHcsdPUtS-bWTuYPqG_6-LrEup/view?usp=share_link)
 -   [**My Projects**](https://github.com/Sar-thak-3)
 -   [**My Portfolio**](https://portfolio-sarthak3s-projects.vercel.app/)
